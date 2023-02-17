@@ -1,0 +1,25 @@
+.main-layout {
+  .header {
+    text-align: center;
+    color: #fff;
+    height: 64px;
+    padding-inline: 50px;
+    line-height: 64px;
+    background-color: #204d1f;
+  };
+
+  .content {
+    text-align: center;
+    padding: 20px;
+    height: calc(100vh - 64px);
+    color: #fff;
+    background-color: #108ee9;
+  };
+
+  .sider{
+    text-align: center;
+    height: calc(100vh - 64px);
+    color: #fff;
+    background-color: #3ba0e9;
+  };
+}
